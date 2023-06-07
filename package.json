@@ -24,12 +24,12 @@
   },
   "keywords": [
     "putout",
-    "printer",
     "AST",
     "babel",
-    "api",
-    "traverse",
-    "generate"
+    "import",
+    "specifier",
+    "import-specifier",
+    "parser"
   ],
   "devDependencies": {
     "@putout/plugin-minify": "^1.8.0",
