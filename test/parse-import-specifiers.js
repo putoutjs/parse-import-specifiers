@@ -22,15 +22,21 @@ test('putout: printer: arrow', (t) => {
         importNamespaceSpecifier,
     ]);
     
-    const defaults = [importDefault];
-    const namespaces = [importNamespaceSpecifier];
-    const imports = [importSpecifier];
+    const defaults = [
+        importDefault,
+    ];
+    const namespaces = [
+        importNamespaceSpecifier,
+    ];
+    const imports = [
+        importSpecifier,
+    ];
     
     const expected = {
         defaults,
         namespaces,
         imports,
-    }
+    };
     
     t.deepEqual(result, expected);
     t.end();
