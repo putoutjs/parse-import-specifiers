@@ -1,17 +1,8 @@
 {
     "printer": "putout",
-    "plugins": [
-        "printer"
-    ],
-    "rules": {
-        "nodejs/declare": "off"
-    },
     "match": {
         "*.md": {
-            "printer/remove-args": "off"
-        },
-        "{test,debug.js}": {
-            "remove-console": "off"
+            "for-of/remove-useless": "off"
         }
     }
 }

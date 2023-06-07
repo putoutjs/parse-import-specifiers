@@ -3,12 +3,10 @@
     "all": true,
     "exclude": [
         "**/*.spec.*",
-        "**/fixture",
         "test",
         "**/debug.js",
         "**/coverage",
-        "**/.*.*",
-        "**/fixture.js"
+        "**/.*.*"
     ],
     "branches": 100,
     "lines": 100,

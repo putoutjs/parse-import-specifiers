@@ -19,6 +19,12 @@ const {
     namespaces,
     imports,
 } = parseSpecifiers(specifiers);
+
+for (const spec of defaults) {}
+
+for (const spec of namespaces) {}
+
+for (const spec of imports) {}
 ```
 
 ## License
