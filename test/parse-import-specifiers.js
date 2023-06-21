@@ -22,9 +22,7 @@ test('putout: printer: arrow', (t) => {
         importNamespaceSpecifier,
     ]);
     
-    const defaults = [
-        importDefault,
-    ];
+    const defaults = [importDefault];
     
     const namespaces = [
         importNamespaceSpecifier,
