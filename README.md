@@ -29,8 +29,7 @@ import {stub} from 'supertape';
 
 So:
 
-- ☝️ *When you [generate code](https://github.com/putoutjs/printer) you should remember that after code transformations `ImportDefaultSpecifier` can be not at the beginning of an array.*
-- ☝️ *When you [generate code](https://github.com/putoutjs/printer) you should remember that after code transformations `ImportDefaultSpecifier` can be not at the beginning of an array.*
+- ☝️ *When you [generate code](https://github.com/putoutjs/printer) you should remember that after code transformations `ImportDefaultSpecifier` can be at the placce of an array.*
 - ☝️ *When you check [specifiers to destructure](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout/lib/multiple-properties-destructuring#readme) you should distinguish Import Specifiers from each other to determine what to do next*.
 
 ## Install
