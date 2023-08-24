@@ -41,11 +41,12 @@ npm i parse-import-specifiers
 ## API
 
 ```js
+const {parseImportSpecifiers} = require('parse-imports-specifiers');
 const {
     defaults,
     namespaces,
     imports,
-} = parseSpecifiers(specifiers);
+} = parseImportSpecifiers(specifiers);
 
 for (const spec of defaults) {}
 
