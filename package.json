@@ -4,7 +4,7 @@
   "type": "commonjs",
   "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
   "description": "Simplest possible way to parse ImportSpecifiers",
-  "homepage": "https://github.com/putoutjs/printer#readme",
+  "homepage": "https://github.com/putoutjs/parse-import-specifiers#readme",
   "main": "./lib/parse-import-specifiers.js",
   "repository": {
     "type": "git",
