@@ -1,3 +1,19 @@
+2024.03.06, v1.0.3
+
+fix:
+- 4f18e3f homepage
+
+feature:
+- 6991ac2 parse-import-specifiers: c8 v9.1.0
+- b1f34e2 parse-import-specifiers: eslint-plugin-putout v22.4.0
+- 30cdb89 parse-import-specifiers: madrun v10.0.1
+- 1926c77 parse-import-specifiers: putout v35.6.0
+- 38b607c parse-import-specifiers: supertape v10.3.0
+- bfb6bd5 package: nodemon v3.0.1
+- 3da6518 package: eslint-plugin-putout v18.1.0
+- facbfad package: putout v30.3.0
+- d5c5264 package: c8 v8.0.0
+
 2023.06.07, v1.0.2
 
 feature:
